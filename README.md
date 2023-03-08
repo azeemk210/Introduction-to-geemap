@@ -11,5 +11,5 @@ Google Earth Engine (GEE) is a cloud computing platform with a multi-petabyte ca
 - Classifying images using machine learning algorithms
 - Computing statistics and exporting results
 - Producing publication-quality maps
- -Building and deploying interactive web apps, among others
+- Building and deploying interactive web apps, among others
 This workshop is intended for scientific programmers, data scientists, geospatial analysts, and concerned citizens of Earth. The attendees are expected to have a basic understanding of Python and the Jupyter ecosystem. Familiarity with Earth science and geospatial datasets is useful but not required.
